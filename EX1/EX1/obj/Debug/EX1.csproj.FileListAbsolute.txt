@@ -1,0 +1,7 @@
+E:\FYM\university\作业\大二下\C#\EX1\EX1\bin\Debug\EX1.exe.config
+E:\FYM\university\作业\大二下\C#\EX1\EX1\bin\Debug\EX1.exe
+E:\FYM\university\作业\大二下\C#\EX1\EX1\bin\Debug\EX1.pdb
+E:\FYM\university\作业\大二下\C#\EX1\EX1\obj\Debug\EX1.csproj.AssemblyReference.cache
+E:\FYM\university\作业\大二下\C#\EX1\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+E:\FYM\university\作业\大二下\C#\EX1\EX1\obj\Debug\EX1.exe
+E:\FYM\university\作业\大二下\C#\EX1\EX1\obj\Debug\EX1.pdb
