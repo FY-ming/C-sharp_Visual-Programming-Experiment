@@ -1,0 +1,11 @@
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\bin\Debug\DocumentProcessor.exe.config
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\bin\Debug\DocumentProcessor.exe
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\bin\Debug\DocumentProcessor.pdb
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.csproj.AssemblyReference.cache
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.Form1.resources
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.Properties.Resources.resources
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.csproj.GenerateResource.cache
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.csproj.CoreCompileInputs.cache
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.exe
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.pdb
+E:\FYM\university\作业\大二下\C#\EX4_DocumentProcessor\DocumentProcessor\DocumentProcessor\obj\Debug\DocumentProcessor.exe.config
